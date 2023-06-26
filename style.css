@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+body{
+
+    background-color: black;
+
+}
+#background{
+
+    background: url("img/Background.png");
+    background-repeat: no-repeat;
+    
+    position: absolute;
+    width: 1440px;
+    height: 680px;
+    left: -57px;
+    top: -8px;
+
+
+}
+
+.intro{
+
+    position: absolute;
+    width: 588px;
+    height: 431px;
+    left: 54px;
+    top: 125px;
+
+
+
+}
+
+#titulo {
+
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 34px;
+
+}
